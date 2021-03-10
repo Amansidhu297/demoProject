@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="registerTitle">Register</string>
+
+    <string name="appTitle">Quiz App</string>
+    <string name="signup">Sign Up</string>
+    <string name="UserName">Please enter user name</string>
+    <string name="editTxtNameHint">User Name</string>
+    <string name="txtViewPasswrd">Please enter the Password</string>
+    <string name="editTxtPasswrd">Password</string>
+    <string name="BtnStart">Start</string>
+    <string name="txtViewReTypePasswrd">Please retype the password</string>
+    <string name="editTxtRetypePasswrd">Retype Password</string>
+    <string name="txtViewSignIn">Sign In</string>
+    <string name="txtViewUserName">Please enter user name</string>
+    <string name="btnSignIn">Sign In</string>
+    <string name="passwrdHint">Password</string>
+    <string name="editTxtUserName">User Name</string>
+    <string name="cardViewRegister">Register</string>
+    <string name="BtnRegister">Register</string>
+    <string name="BtnSignIn">Sign In</string>
+</resources>
